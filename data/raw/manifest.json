@@ -1,0 +1,37 @@
+{
+  "hdfc_mid_cap_opportunities_fund": {
+    "url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "scheme_name": "HDFC Mid-Cap Opportunities Fund",
+    "amc_name": "HDFC Mutual Fund",
+    "filename": "hdfc_mid_cap_opportunities_fund.html",
+    "fetch_timestamp": "2026-06-17T13:14:30.560163+00:00"
+  },
+  "hdfc_top_100_fund": {
+    "url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+    "scheme_name": "HDFC Top 100 Fund",
+    "amc_name": "HDFC Mutual Fund",
+    "filename": "hdfc_top_100_fund.html",
+    "fetch_timestamp": "2026-06-17T13:14:32.799703+00:00"
+  },
+  "hdfc_small_cap_fund": {
+    "url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+    "scheme_name": "HDFC Small Cap Fund",
+    "amc_name": "HDFC Mutual Fund",
+    "filename": "hdfc_small_cap_fund.html",
+    "fetch_timestamp": "2026-06-17T13:14:35.114208+00:00"
+  },
+  "hdfc_gold_etf_fund_of_fund": {
+    "url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+    "scheme_name": "HDFC Gold ETF Fund of Fund",
+    "amc_name": "HDFC Mutual Fund",
+    "filename": "hdfc_gold_etf_fund_of_fund.html",
+    "fetch_timestamp": "2026-06-17T13:14:37.346314+00:00"
+  },
+  "hdfc_defence_fund": {
+    "url": "https://groww.in/mutual-funds/hdfc-defence-fund-direct-growth",
+    "scheme_name": "HDFC Defence Fund",
+    "amc_name": "HDFC Mutual Fund",
+    "filename": "hdfc_defence_fund.html",
+    "fetch_timestamp": "2026-06-17T13:14:39.644939+00:00"
+  }
+}

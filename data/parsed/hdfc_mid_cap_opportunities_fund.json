@@ -1,0 +1,61 @@
+{
+  "scheme_name": "HDFC Mid-Cap Opportunities Fund",
+  "amc_name": "HDFC Mutual Fund",
+  "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+  "fetch_timestamp": "2026-06-17T13:14:30.560163+00:00",
+  "last_updated": "16 Jun '26",
+  "sections": {
+    "overview": {
+      "scheme_name": "HDFC Mid-Cap Opportunities Fund",
+      "latest_nav": "\u20b9223.29",
+      "nav_date": "16 Jun '26",
+      "fund_size_aum": "\u20b997,350.48 Cr",
+      "risk_classification": "Very High Risk",
+      "rating": "5",
+      "about_summary": "HDFC Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Chirag Setalvad is the Current Fund Manager of HDFC Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of \u20b99,34,238 Cr and the Latest NAV as of 16 Jun 2026 is \u20b9223.29."
+    },
+    "expense_ratio": {
+      "value": "0.76%",
+      "description": "A fee payable to a mutual fund house for managing your mutual fund investments.     It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses."
+    },
+    "exit_load": {
+      "value": "Exit load of 1% if redeemed within 1 year.",
+      "description": "A fee payable to a mutual fund house for exiting a fund (fully or partially) before the completion of a specified period from the date of investment."
+    },
+    "minimum_investment": {
+      "minimum_sip": "\u20b9100",
+      "minimum_lumpsum": "\u20b9100"
+    },
+    "benchmark": {
+      "benchmark_index": "NIFTY Midcap 150 Total Return Index"
+    },
+    "tax": {
+      "tax_implication": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
+      "description": "A percentage of your capital gains payable to the government upon exiting your mutual fund investments.     Taxation is categorized as long-term capital gains (LTCG) and short-term capital gains (STCG) depending on your holding period and the type of fund."
+    },
+    "fund_management": {
+      "managers": [
+        {
+          "name": "Chirag Setalvad",
+          "tenure": "- Present",
+          "education": "Mr. Setalvad is a B. Sc and MBA from University of North Carolina.",
+          "experience": "Prior to joining HDFC AMC he has worked with New Vernon Advisory Services Ltd., HDFC AMC and ING Barings N.V."
+        },
+        {
+          "name": "Dhruv Muchhal",
+          "tenure": "- Present",
+          "education": "Mr. Dhruv has done B.Com, CA and CFA",
+          "experience": "Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells"
+        }
+      ]
+    },
+    "investment_objective": {
+      "objective": "The scheme seeks to provide long-term capital appreciation/income by investing predominantly in Mid-Cap companies."
+    },
+    "fund_house": {
+      "name": "HDFC Mutual Fund",
+      "details": {}
+    }
+  },
+  "summary_text": "Scheme Name: HDFC Mid-Cap Opportunities Fund\nFund House: HDFC Mutual Fund\nLatest NAV: \u20b9223.29 (as of 16 Jun '26)\nFund Size (AUM): \u20b997,350.48 Cr\nRisk Classification: Very High Risk\nRating: 5\nInvestment Objective: The scheme seeks to provide long-term capital appreciation/income by investing predominantly in Mid-Cap companies.\nMinimum SIP: \u20b9100, Minimum Lumpsum: \u20b9100\nExpense Ratio: 0.76%\nExit Load: Exit load of 1% if redeemed within 1 year.\nTaxation: If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.\nBenchmark Index: NIFTY Midcap 150 Total Return Index\nFund Managers:\n- Chirag Setalvad (Tenure: - Present). Education: Mr. Setalvad is a B. Sc and MBA from University of North Carolina.. Experience: Prior to joining HDFC AMC he has worked with New Vernon Advisory Services Ltd., HDFC AMC and ING Barings N.V.\n- Dhruv Muchhal (Tenure: - Present). Education: Mr. Dhruv has done B.Com, CA and CFA. Experience: Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells\n"
+}

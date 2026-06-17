@@ -1,0 +1,61 @@
+{
+  "scheme_name": "HDFC Gold ETF Fund of Fund",
+  "amc_name": "HDFC Mutual Fund",
+  "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+  "fetch_timestamp": "2026-06-17T13:14:37.346314+00:00",
+  "last_updated": "16 Jun '26",
+  "sections": {
+    "overview": {
+      "scheme_name": "HDFC Gold ETF Fund of Fund",
+      "latest_nav": "\u20b946.83",
+      "nav_date": "16 Jun '26",
+      "fund_size_aum": "\u20b912,121.18 Cr",
+      "risk_classification": "High Risk",
+      "rating": "3",
+      "about_summary": "HDFC Gold ETF Fund of Fund Direct Plan Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Gold ETF Fund of Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of \u20b99,34,238 Cr and the Latest NAV as of 16 Jun 2026 is \u20b946.83."
+    },
+    "expense_ratio": {
+      "value": "0.20%",
+      "description": "A fee payable to a mutual fund house for managing your mutual fund investments.     It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses."
+    },
+    "exit_load": {
+      "value": "Exit load of 1%, if redeemed within 15 days.",
+      "description": "A fee payable to a mutual fund house for exiting a fund (fully or partially) before the completion of a specified period from the date of investment."
+    },
+    "minimum_investment": {
+      "minimum_sip": "\u20b9100",
+      "minimum_lumpsum": "\u20b9100"
+    },
+    "benchmark": {
+      "benchmark_index": "Domestic Price of Gold"
+    },
+    "tax": {
+      "tax_implication": "If you redeem within two years, returns are taxed as per your Income Tax slab. If you redeem after two years, returns are taxed at 12.5%.",
+      "description": "A percentage of your capital gains payable to the government upon exiting your mutual fund investments.     Taxation is categorized as long-term capital gains (LTCG) and short-term capital gains (STCG) depending on your holding period and the type of fund."
+    },
+    "fund_management": {
+      "managers": [
+        {
+          "name": "Arun Agarwal",
+          "tenure": "- Present",
+          "education": "Mr. Agarwal is a B.Com. and Chartered Accountant",
+          "experience": "Prior to joining HDFC Asset Management Company Limited, he has worked with SBI Funds Management Pvt. Ltd., ICICI Bank Limited, UTI Asset Management Pvt. Ltd."
+        },
+        {
+          "name": "Nandita Menezes",
+          "tenure": "- Present",
+          "education": "CA (ICAI, INDIA), B.Com (University of Mumbai)",
+          "experience": "Prior to joining HDFC AMC, she was associated with S.V. Ghatalia & Associates LLP."
+        }
+      ]
+    },
+    "investment_objective": {
+      "objective": "The Scheme seeks to generate capital appreciation by investing in units of HDFC Gold Exchange Traded Fund."
+    },
+    "fund_house": {
+      "name": "HDFC Mutual Fund",
+      "details": {}
+    }
+  },
+  "summary_text": "Scheme Name: HDFC Gold ETF Fund of Fund\nFund House: HDFC Mutual Fund\nLatest NAV: \u20b946.83 (as of 16 Jun '26)\nFund Size (AUM): \u20b912,121.18 Cr\nRisk Classification: High Risk\nRating: 3\nInvestment Objective: The Scheme seeks to generate capital appreciation by investing in units of HDFC Gold Exchange Traded Fund.\nMinimum SIP: \u20b9100, Minimum Lumpsum: \u20b9100\nExpense Ratio: 0.20%\nExit Load: Exit load of 1%, if redeemed within 15 days.\nTaxation: If you redeem within two years, returns are taxed as per your Income Tax slab. If you redeem after two years, returns are taxed at 12.5%.\nBenchmark Index: Domestic Price of Gold\nFund Managers:\n- Arun Agarwal (Tenure: - Present). Education: Mr. Agarwal is a B.Com. and Chartered Accountant. Experience: Prior to joining HDFC Asset Management Company Limited, he has worked with SBI Funds Management Pvt. Ltd., ICICI Bank Limited, UTI Asset Management Pvt. Ltd.\n- Nandita Menezes (Tenure: - Present). Education: CA (ICAI, INDIA), B.Com (University of Mumbai). Experience: Prior to joining HDFC AMC, she was associated with S.V. Ghatalia & Associates LLP.\n"
+}

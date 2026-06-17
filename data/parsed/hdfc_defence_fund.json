@@ -1,0 +1,67 @@
+{
+  "scheme_name": "HDFC Defence Fund",
+  "amc_name": "HDFC Mutual Fund",
+  "source_url": "https://groww.in/mutual-funds/hdfc-defence-fund-direct-growth",
+  "fetch_timestamp": "2026-06-17T13:14:39.644939+00:00",
+  "last_updated": "16 Jun '26",
+  "sections": {
+    "overview": {
+      "scheme_name": "HDFC Defence Fund",
+      "latest_nav": "\u20b929.20",
+      "nav_date": "16 Jun '26",
+      "fund_size_aum": "\u20b99,724.27 Cr",
+      "risk_classification": "Very High Risk",
+      "rating": "--",
+      "about_summary": "HDFC Defence Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Priya Ranjan is the Current Fund Manager of HDFC Defence Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of \u20b99,34,238 Cr and the Latest NAV as of 16 Jun 2026 is \u20b929.20."
+    },
+    "expense_ratio": {
+      "value": "0.88%",
+      "description": "A fee payable to a mutual fund house for managing your mutual fund investments.     It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses."
+    },
+    "exit_load": {
+      "value": "Exit load of 1%, if redeemed within 1 year.",
+      "description": "A fee payable to a mutual fund house for exiting a fund (fully or partially) before the completion of a specified period from the date of investment."
+    },
+    "minimum_investment": {
+      "minimum_sip": "\u20b9100",
+      "minimum_lumpsum": "Not Supported"
+    },
+    "benchmark": {
+      "benchmark_index": "Nifty India Defence Total Return Index"
+    },
+    "tax": {
+      "tax_implication": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
+      "description": "A percentage of your capital gains payable to the government upon exiting your mutual fund investments.     Taxation is categorized as long-term capital gains (LTCG) and short-term capital gains (STCG) depending on your holding period and the type of fund."
+    },
+    "fund_management": {
+      "managers": [
+        {
+          "name": "Priya Ranjan",
+          "tenure": "- Present",
+          "education": "Mr. Ranjan is B.E(Computer Science) and PGDBM (Finance).",
+          "experience": "Also manages these schemes"
+        },
+        {
+          "name": "Dhruv Muchhal",
+          "tenure": "- Present",
+          "education": "Mr. Dhruv has done B.Com, CA and CFA",
+          "experience": "Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells"
+        },
+        {
+          "name": "Rahul Baijal",
+          "tenure": "- Present",
+          "education": "Mr. Baijal has done PGDM(MBA) from IIM Calcutta and is an engineering graduate of Delhi college of Engineering",
+          "experience": "Prior to joining HDFC Mutual Fund, he has worked with Sundaram Mutual Fund, Bharti AXA Life Insurance, TVF Capital, HSBC Securities, Credit Suisse Securities & Standard Chartered Bank."
+        }
+      ]
+    },
+    "investment_objective": {
+      "objective": "The scheme seeks to provide long-term capital appreciation by investing predominantly in equity and equity related securities of Defence & allied sector companies."
+    },
+    "fund_house": {
+      "name": "HDFC Mutual Fund",
+      "details": {}
+    }
+  },
+  "summary_text": "Scheme Name: HDFC Defence Fund\nFund House: HDFC Mutual Fund\nLatest NAV: \u20b929.20 (as of 16 Jun '26)\nFund Size (AUM): \u20b99,724.27 Cr\nRisk Classification: Very High Risk\nRating: --\nInvestment Objective: The scheme seeks to provide long-term capital appreciation by investing predominantly in equity and equity related securities of Defence & allied sector companies.\nMinimum SIP: \u20b9100, Minimum Lumpsum: Not Supported\nExpense Ratio: 0.88%\nExit Load: Exit load of 1%, if redeemed within 1 year.\nTaxation: If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.\nBenchmark Index: Nifty India Defence Total Return Index\nFund Managers:\n- Priya Ranjan (Tenure: - Present). Education: Mr. Ranjan is B.E(Computer Science) and PGDBM (Finance).. Experience: Also manages these schemes\n- Dhruv Muchhal (Tenure: - Present). Education: Mr. Dhruv has done B.Com, CA and CFA. Experience: Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells\n- Rahul Baijal (Tenure: - Present). Education: Mr. Baijal has done PGDM(MBA) from IIM Calcutta and is an engineering graduate of Delhi college of Engineering. Experience: Prior to joining HDFC Mutual Fund, he has worked with Sundaram Mutual Fund, Bharti AXA Life Insurance, TVF Capital, HSBC Securities, Credit Suisse Securities & Standard Chartered Bank.\n"
+}

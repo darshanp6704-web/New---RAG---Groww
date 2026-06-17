@@ -1,0 +1,14 @@
+2026-06-17 18:44:30,428 - INFO - Dry-run flag (--now) detected. Executing pipeline immediately...
+2026-06-17 18:44:30,428 - INFO - ==================================================
+2026-06-17 18:44:30,428 - INFO - Starting scheduled ingestion pipeline run.
+2026-06-17 18:44:30,428 - INFO - ==================================================
+2026-06-17 18:44:30,429 - INFO - STEP 1: Fetching latest Groww HTML files...
+2026-06-17 18:44:39,648 - INFO - STEP 1: Fetch completed successfully.
+2026-06-17 18:44:39,648 - INFO - STEP 2: Parsing HTML files into structured JSON...
+2026-06-17 18:44:39,791 - INFO - STEP 2: Parse completed successfully.
+2026-06-17 18:44:39,792 - INFO - STEP 3: Indexing parsed data into ChromaDB...
+2026-06-17 18:44:45,876 - INFO - STEP 3: Indexing completed successfully.
+2026-06-17 18:44:45,876 - INFO - ==================================================
+2026-06-17 18:44:45,876 - INFO - Ingestion pipeline completed successfully.
+2026-06-17 18:44:45,876 - INFO - ==================================================
+2026-06-17 18:44:45,876 - INFO - Dry-run execution completed. Exiting.
